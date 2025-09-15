@@ -1,0 +1,8 @@
+# Node
+task-manager-backend/node_modules/
+task-manager-backend/package-lock.json
+task-manager-backend/.env
+
+# OS
+.DS_Store
+
